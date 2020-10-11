@@ -1,0 +1,8 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+/* can now reference my font */
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+/* my custom css */
